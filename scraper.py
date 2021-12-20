@@ -39,4 +39,5 @@ class scraper():
 
 
 if __name__ == "__main__":
+    produto_name = input("Informe o nome do produto, assim como ")
     s = scraper("mi band 5")
